@@ -51,7 +51,7 @@ Install Dependencies: Install the required Python dependencies using pip:
 
     ```shell
     pip install -r requirements.txt
-Download LLama Quantized Model: Download the LLama Quantized model from the following link: LLama Quantized Model
+Download LLama Quantized Model: Download the LLama Quantized model from the following link: LLama Quantized Model <a>https://huggingface.co/TheBloke/Llama-2-7B-GGML/blob/main/llama-2-7b.ggmlv3.q8_0.bin</a>
 
 Move the Model to the Project Folder: Place the downloaded LLama Quantized model (llama-2-7b.ggmlv3.q8_0.bin) in the same folder as the project (VidyutSahayak).
 
