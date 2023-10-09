@@ -8,7 +8,7 @@ VidyutSahayak is an intelligent chatbot developed using a versatile technology s
 
 Before running VidyutSahayak locally, please ensure that your system meets the following minimum requirements:
 
-- **RAM:** 16 GB of RAM or higher.
+- **RAM:** 16 GB of RAM or higher is necessary.
 - **Internet Connection:** A good and stable internet connection.
 
 These requirements are necessary to ensure the efficient operation of VidyutSahayak.
